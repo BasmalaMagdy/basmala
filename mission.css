@@ -1,0 +1,87 @@
+html{
+    font-size: 62.5%;
+
+}
+body{
+    margin: auto;
+}
+.head
+{
+    font-size: 2rem;
+    text-align: center;
+    position: relative;
+    font-family: sans-serif;
+}
+h6
+{
+    margin-top: 0.3rem;
+    color: #8f8585;
+    font-style: italic;
+}
+h1{
+    margin-bottom: 0.5rem ;
+    font-weight:lighter ;
+    letter-spacing: 0.3rem;
+}
+
+.text
+{
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: normal;
+    margin-left: 10rem;
+    
+}
+
+.boxes
+{
+    color: #8f8585;
+    margin-top: 1rem;
+    position: absolute;
+    top: 11rem;
+    float: right;
+   margin-right: 20rem;
+   overflow: auto;
+}
+.box1 input , .box1 textarea 
+{
+    width: 20.5rem;
+    height: 4rem;
+    border: 0.15rem solid #8f8585;
+    margin-left: 80rem;
+    margin-bottom: 1rem;
+    float: left;
+    padding-left: 2rem;
+  
+}
+.box2 input , .box2 textarea 
+{
+    width: 20.5rem;
+    height: 4rem;
+    border: 0.15rem solid #8f8585;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    float: left;
+    padding-left: 2rem;
+}
+
+.box3 input , .box3 textarea 
+{
+    width: 43rem;
+    height: 4rem;
+    border: 0.15rem solid #8f8585;
+    margin-left: 80rem;
+    margin-top: 0.1rem;
+    float: left;
+    padding-left: 2rem;
+}
+ .btn button
+{
+    width: 9rem;
+    height: 4rem;
+ background-color: black;
+ color: white;
+ border: none;
+ margin-left:114rem ;
+ margin-top: 1rem;
+}
